@@ -1,0 +1,440 @@
+[
+    {
+        "id": 1,
+        "brand": "Apple",
+        "name": "iPhone 14 Pro Max",
+        "operatingSystem": "Android",
+        "origin": "Authentic",
+        "segmentation": "Luxury",
+        "button": "Add to cart",
+        "price": 1332.27,
+        "discount": 20,
+        "screenSize": 6,
+        "ram": 12,
+        "rom": 256,
+        "warranty": 12,
+        "rating": 5,
+        "descriptions": ["VIP warranty for 12 months.", "Coupon code LGBTQ+ for 20% off."],
+        "images": [
+            {
+                "url":"../resources/images/iphone-14-pro-max/black.png",
+                "color": { "name": "iphone-14-pro-max/black", "code": "#000000", "label": "Black" }
+            },
+            {
+                "url":"../resources/images/iphone-14-pro-max/white.png",
+                "color": { "name": "iphone-14-pro-max/white", "code": "#FFFFFF", "label": "White" }
+            },
+            {
+                "url":"../resources/images/iphone-14-pro-max/gold.png",
+                "color": { "name": "iphone-14-pro-max/gold", "code": "#FFDD59", "label": "Gold" }
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "brand": "Samsung",
+        "name": "Samsung Galaxy S22",
+        "operatingSystem": "Android",
+        "origin": "Authentic",
+        "segmentation": "Moderate",
+        "button": "Add to cart",
+        "price": 945.57,
+        "discount": 30,
+        "screenSize": 6.1,
+        "ram": 8,
+        "rom": 128,
+        "warranty": 12,
+        "rating": 5,
+        "descriptions": ["VIP warranty for 12 months.", "Coupon code LGBTQ+ for 20% off."],
+        "images": [
+            {
+                "url":"../resources/images/samsung-galaxy-s22/black.png",
+                "color": { "name": "samsung-galaxy-s22/black", "code": "#000000", "label": "Black" }
+            },
+            {
+                "url":"../resources/images/samsung-galaxy-s22/pink.png",
+                "color": { "name": "samsung-galaxy-s22/pink", "code": "#FFB8B8", "label": "Pink" }
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "brand": "Oppo",
+        "name": "Oppo Find X5 Pro",
+        "operatingSystem": "Android",
+        "origin": "Authentic",
+        "segmentation": "Luxury",
+        "button": "Add to cart",
+        "price": 1416.17,
+        "discount": 15,
+        "screenSize": 6.7,
+        "ram": 12,
+        "rom": 256,
+        "warranty": 12,
+        "rating": 4.8,
+        "descriptions": ["VIP warranty for 12 months.", "Coupon code LGBTQ+ for 20% off."],
+        "images": [
+            {
+                "url":"../resources/images/oppo-find-x5-pro/black.png",
+                "color": { "name": "oppo-find-x5-pro/black", "code": "#000000", "label": "Black" }
+            },
+            {
+                "url":"../resources/images/oppo-find-x5-pro/white.png",
+                "color": { "name": "oppo-find-x5-pro/white", "code": "#FFFFFF", "label": "White" }
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "brand": "Xiaomi",
+        "name": "Xiaomi Redmi 12C",
+        "operatingSystem": "Android",
+        "origin": "Grey import",
+        "segmentation": "Inexpensive",
+        "button": "Add to cart",
+        "price": 154.37,
+        "discount": 0,
+        "screenSize": 6.71,
+        "ram": 4,
+        "rom": 64,
+        "warranty": 12,
+        "rating": 3.5,
+        "descriptions": ["VIP warranty for 12 months.", "Coupon code LGBTQ+ for 20% off."],
+        "images": [
+            {
+                "url":"../resources/images/xiaomi-redmi-12c/black.png",
+                "color": { "name": "xiaomi-redmi-12c/black", "code": "#000000", "label": "Black" }
+            },
+            {
+                "url":"../resources/images/xiaomi-redmi-12c/blue.png",
+                "color": { "name": "xiaomi-redmi-12c/blue", "code": "#3C40C6", "label": "Blue" }
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "brand": "Apple",
+        "name": "iPhone 14 Pro",
+        "operatingSystem": "iOS",
+        "origin": "Grey import",
+        "segmentation": "Luxury",
+        "button": "Add to cart",
+        "price": 1202.97,
+        "discount": 10,
+        "screenSize": 6,
+        "ram": 6,
+        "rom": 128,
+        "warranty": 12,
+        "rating": 4.5,
+        "descriptions": ["VIP warranty for 12 months.", "Coupon code LGBTQ+ for 20% off."],
+        "images": [
+            {
+                "url":"../resources/images/iphone-14-pro/black.png",
+                "color": { "name": "iphone-14-pro/black", "code": "#000000", "label": "Black" }
+            },
+            {
+                "url":"../resources/images/iphone-14-pro/white.png",
+                "color": { "name": "iphone-14-pro/white", "code": "#FFFFFF", "label": "White" }
+            },
+            {
+                "url":"../resources/images/iphone-14-pro/gold.png",
+                "color": { "name": "iphone-14-pro/gold", "code": "#FFDD59", "label": "Gold" }
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "brand": "Oppo",
+        "name": "Oppo A55",
+        "operatingSystem": "Android",
+        "origin": "Grey import",
+        "segmentation": "Inexpensive",
+        "button": "Add to cart",
+        "price": 193.07,
+        "discount": 0,
+        "screenSize": 6.51,
+        "ram": 4,
+        "rom": 64,
+        "warranty": 12,
+        "rating": 4.1,
+        "descriptions": ["VIP warranty for 12 months.", "Coupon code LGBTQ+ for 20% off."],
+        "images": [
+            {
+                "url":"../resources/images/oppo-a55/black.png",
+                "color": { "name": "oppo-a55/black", "code": "#000000", "label": "Black" }
+            },
+            {
+                "url":"../resources/images/oppo-a55/blue.png",
+                "color": { "name": "oppo-a55/blue", "code": "#3C40C6", "label": "Blue" }
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "brand": "Samsung",
+        "name": "Samsung Galaxy A13",
+        "operatingSystem": "Android",
+        "origin": "Authentic",
+        "segmentation": "Inexpensive",
+        "button": "Add to cart",
+        "price": 180.17,
+        "discount": 0,
+        "screenSize": 5.9,
+        "ram": 4,
+        "rom": 128,
+        "warranty": 12,
+        "rating": 3.5,
+        "descriptions": ["VIP warranty for 12 months.", "Coupon code LGBTQ+ for 20% off."],
+        "images": [
+            {
+                "url":"../resources/images/samsung-galaxy-a13/black.png",
+                "color": { "name": "samsung-galaxy-a13/black", "code": "#000000", "label": "Black" }
+            },
+            {
+                "url":"../resources/images/samsung-galaxy-a13/blue.png",
+                "color": { "name": "samsung-galaxy-a13/blue", "code": "#48DBFB", "label": "Blue" }
+            },
+            {
+                "url":"../resources/images/samsung-galaxy-a13/orange.png",
+                "color": { "name": "samsung-galaxy-a13/orange", "code": "#F19066", "label": "Orange" }
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "brand": "Xiaomi",
+        "name": "Xiaomi Redmi 10C",
+        "operatingSystem": "Android",
+        "origin": "Grey import",
+        "segmentation": "Inexpensive",
+        "button": "Add to cart",
+        "price": 167.27,
+        "discount": 0,
+        "screenSize": 6.71,
+        "ram": 4,
+        "rom": 128,
+        "warranty": 12,
+        "rating": 4,
+        "descriptions": ["VIP warranty for 12 months.", "Coupon code LGBTQ+ for 20% off."],
+        "images": [
+            {
+                "url":"../resources/images/xiaomi-redmi-10c/black.png",
+                "color": { "name": "xiaomi-redmi-10c/black", "code": "#000000", "label": "Black" }
+            },
+            {
+                "url":"../resources/images/xiaomi-redmi-10c/blue.png",
+                "color": { "name": "xiaomi-redmi-10c/blue", "code": "#3C40C6", "label": "Blue" }
+            },
+            {
+                "url":"../resources/images/xiaomi-redmi-10c/green.png",
+                "color": { "name": "xiaomi-redmi-10c/green", "code": "#0BE881", "label": "Green" }
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "brand": "Oppo",
+        "name": "Oppo A77S",
+        "operatingSystem": "Android",
+        "origin": "Authentic",
+        "segmentation": "Inexpensive",
+        "button": "Add to cart",
+        "price": 270.47,
+        "discount": 0,
+        "screenSize": 6.56,
+        "ram": 8,
+        "rom": 128,
+        "warranty": 12,
+        "rating": 4.3,
+        "descriptions": ["VIP warranty for 12 months.", "Coupon code LGBTQ+ for 20% off."],
+        "images": [
+            {
+                "url":"../resources/images/oppo-a77s/black.png",
+                "color": { "name": "oppo-a77s/black", "code": "#000000", "label": "Black" }
+            },
+            {
+                "url":"../resources/images/oppo-a77s/blue.png",
+                "color": { "name": "oppo-a77s/blue", "code": "#7EFFF5", "label": "Blue" }
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "brand": "Oppo",
+        "name": "Oppo A96",
+        "operatingSystem": "Android",
+        "origin": "Authentic",
+        "segmentation": "Inexpensive",
+        "button": "Add to cart",
+        "price": 238.65,
+        "discount": 0,
+        "screenSize": 6.59,
+        "ram": 8,
+        "rom": 128,
+        "warranty": 12,
+        "rating": 3.9,
+        "descriptions": ["VIP warranty for 12 months.", "Coupon code LGBTQ+ for 20% off."],
+        "images": [
+            {
+                "url":"../resources/images/oppo-a96/black.png",
+                "color": { "name": "oppo-a96/black", "code": "#000000", "label": "Black" }
+            },
+            {
+                "url":"../resources/images/oppo-a96/pink.png",
+                "color": { "name": "oppo-a96/pink", "code": "#FFCCCC", "label": "Pink" }
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "brand": "Xiaomi",
+        "name": "Xiaomi Redmi Note 12 Pro",
+        "operatingSystem": "Android",
+        "origin": "Authentic",
+        "segmentation": "Moderate",
+        "button": "Add to cart",
+        "price": 404.69,
+        "discount": 0,
+        "screenSize": 6.67,
+        "ram": 8,
+        "rom": 256,
+        "warranty": 12,
+        "rating": 4.5,
+        "usageNeeds": [],
+        "descriptions": ["VIP warranty for 12 months.", "Coupon code LGBTQ+ for 20% off."],
+        "images": [
+            {
+                "url":"../resources/images/xiaomi-redmi-note-12-pro/black.png",
+                "color": { "name": "xiaomi-redmi-note-12-pro/black", "code": "#000000", "label": "Black" }
+            },
+            {
+                "url":"../resources/images/xiaomi-redmi-note-12-pro/blue.png",
+                "color": { "name": "xiaomi-redmi-note-12-pro/blue", "code": "#74B9FF", "label": "Blue" }
+            },
+            {
+                "url":"../resources/images/xiaomi-redmi-note-12-pro/white.png",
+                "color": { "name": "xiaomi-redmi-note-12-pro/white", "code": "#FFFFFF", "label": "White" }
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "brand": "Xiaomi",
+        "name": "Xiaomi 12 T",
+        "operatingSystem": "Android",
+        "origin": "Authentic",
+        "segmentation": "Moderate",
+        "button": "Add to cart",
+        "price": 724.52,
+        "discount": 10,
+        "screenSize": 6.67,
+        "ram": 12,
+        "rom": 256,
+        "warranty": 12,
+        "rating": 3.9,
+        "usageNeeds": ["battery", "game"],
+        "descriptions": ["VIP warranty for 12 months.", "Coupon code LGBTQ+ for 20% off."],
+        "images": [
+            {
+                "url":"../resources/images/xiaomi-12t/black.png",
+                "color": { "name": "xiaomi-12t/black", "code": "#000000", "label": "Black" }
+            },
+            {
+                "url":"../resources/images/xiaomi-12t/blue.png",
+                "color": { "name": "xiaomi-12t/blue", "code": "#74B9FF", "label": "Blue" }
+            },
+            {
+                "url":"../resources/images/xiaomi-12t/grey.png",
+                "color": { "name": "xiaomi-12t/grey", "code": "#B2BEC3", "label": "Grey" }
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "brand": "Oppo",
+        "name": "Oppo Reno6 Pro",
+        "operatingSystem": "Android",
+        "origin": "Authentic",
+        "segmentation": "Moderate",
+        "button": "Add to cart",
+        "price": 596.59,
+        "discount": 0,
+        "screenSize": 6.55,
+        "ram": 12,
+        "rom": 256,
+        "warranty": 12,
+        "rating": 4.7,
+        "usageNeeds": ["camera", "game"],
+        "descriptions": ["VIP warranty for 12 months.", "Coupon code LGBTQ+ for 20% off."],
+        "images": [
+            {
+                "url":"../resources/images/oppo-reno6-pro/blue.png",
+                "color": { "name": "oppo-reno6-pro/blue", "code": "#74B9FF", "label": "Blue" }
+            },
+            {
+                "url":"../resources/images/oppo-reno6-pro/grey.png",
+                "color": { "name": "oppo-reno6-pro/grey", "code": "#B2BEC3", "label": "Grey" }
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "brand": "Samsung",
+        "name": "Samsung Galaxy M53",
+        "operatingSystem": "Android",
+        "origin": "Authentic",
+        "segmentation": "Moderate",
+        "button": "Add to cart",
+        "price": 468.66,
+        "discount": 0,
+        "screenSize": 6.7,
+        "ram": 8,
+        "rom": 256,
+        "warranty": 12,
+        "rating": 4,
+        "usageNeeds": [],
+        "descriptions": ["VIP warranty for 12 months.", "Coupon code LGBTQ+ for 20% off."],
+        "images": [
+            {
+                "url":"../resources/images/samsung-galaxy-m53/blue.png",
+                "color": { "name": "samsung-galaxy-m53/blue", "code": "#323A4F", "label": "Blue" }
+            },
+            {
+                "url":"../resources/images/samsung-galaxy-m53/brown.png",
+                "color": { "name": "samsung-galaxy-m53/brown", "code": "#483636", "label": "Brown" }
+            },
+            {
+                "url":"../resources/images/samsung-galaxy-m53/green.png",
+                "color": { "name": "samsung-galaxy-m53/green", "code": "#889D96", "label": "Green" }
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "brand": "Samsung",
+        "name": "Samsung Galaxy A34",
+        "operatingSystem": "Android",
+        "origin": "Authentic",
+        "segmentation": "Inexpensive",
+        "button": "Add to cart",
+        "price": 338.17,
+        "discount": 0,
+        "screenSize": 6.6,
+        "ram": 8,
+        "rom":128,
+        "warranty": 12,
+        "rating": 4,
+        "usageNeeds": ["battery", "game"],
+        "descriptions": ["VIP warranty for 12 months.", "Coupon code LGBTQ+ for 20% off."],
+        "images": [
+            {
+                "url":"../resources/images/samsung-galaxy-a34/black.png",
+                "color": { "name": "samsung-galaxy-a34/black", "code": "#000000", "label": "Black" }
+            },
+            {
+                "url":"../resources/images/samsung-galaxy-a34/blue.png",
+                "color": { "name": "samsung-galaxy-a34/blue", "code": "#7EFFF5", "label": "Blue" }
+            }
+        ]
+    }
+]

@@ -1,0 +1,322 @@
+{
+    "homeTitle": "首 页",
+    "homeSubTitleServices": "服 务",
+    "homeSubTitleOutstanding": "精 选 产 品",
+    "homeSubTitleProducts": "产 品 列 表",
+    "header": {
+        "headerTop": {
+            "address": "可 以 翻 译 为 越 南 胡 志 明 市 一 区 Trần Quang Khải 街 123 号。",
+            "phone": "19001234",
+            "email": "uxuishop@example.com",
+            "languages": {
+                "selected": "中 文",
+                "vietnamese": "Tiếng Việt",
+                "english": "English",
+                "chinese": "中 文"
+            },
+            "currency": {
+                "vnd": "VND (越 南 盾)",
+                "usd": "USD (美 元)",
+                "cny": "CNY (人 民 币)"
+            }
+        },
+        "headerCenter": {
+            "navigations": {
+                "home": "主 页",
+                "policy": "政 策",
+                "sale": "促 销",
+                "contact": "联 系 我 们"
+            },
+            "buttons": {
+                "signup": "注 册",
+                "signin": "登 录"
+            },
+            "welcome": "您 好",
+            "menu": {
+                "editProfile": "编 辑 个 人 资 料",
+                "changePassword": "修 改 密 码",
+                "signout": "退 出 登 录"
+            }
+        },
+        "headerBottom": {
+            "categories": {
+                "title": "产 品 类 别",
+                "inexpensive": "经 济 实 惠",
+                "moderate": "中 档",
+                "luxury": "豪 华"
+            },
+            "brands": {
+                "title": "品 牌",
+                "apple": "Apple",
+                "samsung": "Samsung",
+                "oppo": "Oppo",
+                "xiaomi": "Xiaomi"
+            },
+            "search": {
+                "placeholder": "在 此 搜 索 产 品",
+                "button": "搜 索",
+                "history": "搜 索 历 史",
+                "recommended": "推 荐 产 品"
+            },
+            "order": "订 单",
+            "wishlist": "愿 望 清 单",
+            "cart": "购 物 车"
+        }
+    },
+    "signup": {
+        "title": "注 册 账 号",
+        "subtitle": "😍 为 了 使 用 会 员 专 属 服 务 😍",
+        "form": {
+            "name": {
+                "title": "姓 名",
+                "placeholder": "例 如：张 三",
+                "error": {
+                    "empty": "不 得 为 空。",
+                    "accept": "只 接 受 字 母 字 符。",
+                    "length": "必 须 在 2 到 100 个 字 符 之 间。"
+                }
+            },
+            "email": {
+                "title": "电 子 邮 件",
+                "placeholder": "例 如：zhangsan@gmail.com",
+                "error": {
+                    "empty": "不 得 为 空。",
+                    "accept": "必 须 是 用 户 名、域 名 和 “@” 符 号 的 格 式。",
+                    "length": "必 须 在 2 到 70 个 字 符 之 间。"
+                }
+            },
+            "phone": {
+                "title": "电 话 号 码",
+                "placeholder": "例 如：123456789",
+                "error": {
+                    "empty": "不 得 为 空。",
+                    "accept": "只 接 受 数 字 字 符。",
+                    "length": "必 须 在 8 到 9 个 字 符 之 间。"
+                },
+                "callingcode": {
+                    "default": "+84",
+                    "vietnam": "+84 (越 南)",
+                    "unitedstates": "+1 (美 国)",
+                    "chinese": "+86 (中 国)"
+                }
+            },
+            "password": {
+                "title": "密 码",
+                "placeholder": "例 如：P@ssw0rd!",
+                "error": {
+                    "empty": "不 得 为 空。",
+                    "accept": "必 须 包 含 至 少 一 个 大 写 字 母、一 个 小 写 字 母、一 个 数 字 和 一 个 特 殊 字 符。",
+                    "length": "必 须 至 少 为 8 个 字 符。"
+                }
+            },
+            "cfpassword": {
+                "title": "确 认 密 码",
+                "placeholder": "例 如：P@ssw0rd!",
+                "error": {
+                    "empty": "不 得 为 空。",
+                    "accept": "必 须 与 您 设 置 的 密 码 匹 配。"
+                }
+            }
+        },
+        "confirmation": {
+            "label": "我 接 受",
+            "link": "条 款 和 隐 私 政 策"
+        },
+        "button": "立 即 注 册",
+        "haveanaccount": {
+            "text": "已 经 有 一 个 账 号 了 吗？",
+            "span": "登 录"
+        },
+        "erroragree": "请 接 受 隐 私 政 策。",
+        "erroremail": "电 子 邮 件 已 被 使 用。",
+        "errorphone": "电 话 号 码 已 被 使 用。",
+        "success": "注 册 成 功"
+    },
+    "signin": {
+        "title": "登 录 您 的 帐 户",
+        "subtitle": "😍 访 问 会 员 专 属 服 务 😍",
+        "form": {
+            "email": {
+                "title": "电 子 邮 件",
+                "placeholder": "例 如：zhangsan@gmail.com",
+                "error": {
+                    "empty": "不 能 为 空。",
+                    "accept": "必 须 是 用 户 名、域 名 和 “@” 符 号 的 格 式。"
+                }
+            },
+            "password": {
+                "title": "密 码",
+                "placeholder": "例 如：P@ssw0rd!",
+                "error": {
+                    "empty": "不 能 为 空。"
+                }
+            }
+        },
+        "remember": "记 住 我",
+        "forgotpassword": "忘 记 密 码？",
+        "button": "登 录",
+        "donothaveanaccount": {
+            "text": "还 没 有 帐 号？",
+            "span": "注 册"
+        },
+        "linesigninmethods": "或",
+        "signinmethods": {
+            "google": "使 用 Google 登 录",
+            "facebook": "使 用 Facebook 登 录",
+            "appleid": "使 用 Apple ID 登 录",
+            "wechat": "使 用 微 信 登 录"
+        },
+        "failed": "登 录 凭 证 无 效。",
+        "success": "登 录 成 功"
+    },
+    "filter": {
+        "usageneeds": {
+            "title": "按 使 用 需 求 筛 选",
+            "items": {
+                "game": "游 戏",
+                "battery": "长 续 航",
+                "camera": "好 相 机",
+                "configuration": "强 大 的 配 置"
+            }
+        },
+        "specifications": {
+            "title": "按 产 品 规 格 筛 选",
+            "items": {
+                "ram": "内 存",
+                "rom": "存 储",
+                "screensize": {
+                    "title": "屏 幕 尺 寸",
+                    "items": {
+                        "under6inches": "小 于 6 英 寸",
+                        "is6inches": "6 英 寸",
+                        "over6inches": "大 于 6 英 寸"
+                    }
+                },
+                "operatingsystem": "操 作 系 统"
+            }
+        },
+        "othercriteria": {
+            "title": "按 其 他 条 件 筛 选",
+            "items": {
+                "price": {
+                    "title": "价 格",
+                    "from": "从",
+                    "to": "到"
+                },
+                "remainingcriteria": {
+                    "title": "其 它 标 准",
+                    "discount": "折 扣",
+                    "highrating": "高 评 价",
+                    "authentic": "正 品",
+                    "greyimport": "平 行 进 口",
+                    "bestseller": "畅 销 产 品"
+                }
+            }
+        },
+        "buttons": {
+            "apply": "应 用",
+            "reset": "重 置"
+        }
+    },
+    "view": {
+        "search": "搜 索",
+        "notfound": "未 找 到 合 适 的 商 品",
+        "products": "商 品",
+        "page": "页",
+        "sort": {
+            "newest": "最 新",
+            "toprated": "评 分 最 高",
+            "pricelowtohigh": "价 格 从 低 到 高",
+            "pricehightolow": "价 格 从 高 到 低"
+        },
+        "show": {
+            "show": "显 示",
+            "products": "商 品"
+        },
+        "reset": "重 置 产 品",
+        "show2": "每 行 显 示 2 个 产 品",
+        "show4": "每 行 显 示 4 个 产 品"
+    },
+    "products": {
+        "ram": "RAM 内 存",
+        "rom": "ROM 内 存",
+        "screensize": "屏 幕 尺 寸"
+    },
+    "subcart": {
+        "title": "购 物 车",
+        "viewall": "查 看 全 部",
+        "subtotal": "小 计",
+        "checkout": "结 算",
+        "products": "个 产 品",
+        "color": "颜 色",
+        "ram": "内 存",
+        "rom": "存 储",
+        "addwishlist": "加 入 收 藏",
+        "empty": "购 物 车 没 有 商 品",
+        "alreadyexists": "已 经 在 购 物 车 中",
+        "alreadyadd": "已 被 添 加 到 购 物 车",
+        "alreadydelete": "已 被 从 购 物 车 中 删 除"
+    },
+    "footer": {
+        "features": {
+            "title": "功 能",
+            "home": "主 页",
+            "policy": "政 策",
+            "sale": "促 销",
+            "contact": "联 系 我 们"
+        },
+        "categories": {
+            "title": "产 品 类 别",
+            "inexpensive": "经 济 实 惠",
+            "moderate": "中 档",
+            "luxury": "豪 华"
+        },
+        "brands": {
+            "title": "品 牌",
+            "apple": "Apple",
+            "oppo": "Oppo",
+            "samsung": "Samsung",
+            "xiaomi": "Xiaomi"
+        },
+        "contact": {
+            "title": "联 系 我 们",
+            "address": "可 以 翻 译 为 越 南 胡 志 明 市 一 区 Trần Quang Khải 街 123 号。",
+            "phone": "19001234",
+            "email": "uxuishop@example.com"
+        },
+        "getinfo": "获 取 最 新 产 品 信 息 😍",
+        "paymentmethod": "支 持 各 种 支 付 方 式 😍",
+        "copyright": "版 权 所 有 © 2023 - 保 留 所 有 权 利 | 版 权 归 UXUI Shop 所 有",
+        "emailaddress": "电 子 邮 件 地 址"
+    },
+    "slider": {
+        "seemore": "查 看 更 多",
+        "descriptions": [
+            "iPhone 13 Pro是 小 米 与 著 名 摄 影 品 牌 徕 卡 合 作 的 最 新 旗 舰 产 品。这 被 认 为 是 2023 年 摄 影 爱 好 者 的 关 注 中 心。",
+            "OPPO Find X5 可 能 是 2022 年 印 象 深 刻 的 手 机 设 计 列 表 中 最 突 出 的 名 字。该 设 备 由 公 司 推 出，具 有 独 特 而 史 无 前 例 的 外 观。",
+            "Samsung Galaxy S23 不 再 是 科 技 爱 好 者 完 全 不 熟 悉 的 名 字，它 是 三 星 的 关 键 面 孔 之 一，具 有 最 强 大 的 配 置、顶 级 相 机 和 极 其 豪 华、现 代 的 饰 面 风 格。"
+        ]
+    },
+    "services": {
+        "delivery": {
+            "title": "免 费 送 货",
+            "description": "适 用 于 所 有 订 单"
+        },
+        "support": {
+            "title": "在 线 支 持",
+            "description": "24/7 客 户 服 务"
+        },
+        "return": {
+            "title": "退 款 保 证",
+            "description": "7天 内 退 款"
+        },
+        "discount": {
+            "title": "促 销",
+            "description": "折 扣 从 10% - 30%"
+        }
+    },
+    "outstanding": {
+        "seemore": "查 看 更 多",
+        "price": [1002.2, 1253.2, 7837.2, 1170.2, 9237.2, 3437.00] 
+    }
+}

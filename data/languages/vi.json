@@ -1,0 +1,322 @@
+{
+    "homeTitle": "Trang chủ",
+    "homeSubTitleServices": "Dịch vụ",
+    "homeSubTitleOutstanding": "Sản phẩm nổi bật",
+    "homeSubTitleProducts": "Danh sách sản phẩm",
+    "header": {
+        "headerTop": {
+            "address": "123 Trần Quang Khải, Quận 1, TPHCM",
+            "phone": "19001234",
+            "email": "uxuishop@example.com",
+            "languages": {
+                "selected": "Tiếng Việt",
+                "vietnamese": "Tiếng Việt",
+                "english": "English",
+                "chinese": "中文"
+            },
+            "currency": {
+                "vnd": "VND (Việt Nam Đồng)",
+                "usd": "USD (Đô La Mỹ)",
+                "cny": "CNY (Nhân Dân Tệ)"
+            }
+        },
+        "headerCenter": {
+            "navigations": {
+                "home": "Trang chủ",
+                "policy": "Chính sách",
+                "sale": "Khuyến mãi",
+                "contact": "Liên hệ"
+            },
+            "buttons": {
+                "signup": "Đăng ký",
+                "signin": "Đăng nhập"
+            },
+            "welcome": "Xin chào",
+            "menu": {
+                "editProfile": "Chỉnh sửa hồ sơ",
+                "changePassword": "Đổi mật khẩu",
+                "signout": "Đăng xuất"
+            }
+        },
+        "headerBottom": {
+            "categories": {
+                "title": "Danh mục",
+                "inexpensive": "Phân khúc giá rẻ",
+                "moderate": "Phân khúc tầm trung",
+                "luxury": "Phân khúc cao cấp"
+            },
+            "brands": {
+                "title": "Thương hiệu",
+                "apple": "Apple",
+                "samsung": "Samsung",
+                "oppo": "Oppo",
+                "xiaomi": "Xiaomi"
+            },
+            "search": {
+                "placeholder": "Tìm kiếm sản phẩm tại đây",
+                "button": "Tìm",
+                "history": "Lịch sử tìm kiếm",
+                "recommended": "Sản phẩm gợi ý"
+            },
+            "order": "Đơn hàng",
+            "wishlist": "Yêu thích",
+            "cart": "Giỏ hàng"
+        }
+    },
+    "signup": {
+        "title": "Đăng ký tài khoản",
+        "subtitle": "😍 Để sử dụng các dịch vụ dành cho thành viên 😍",
+        "form": {
+            "name": {
+                "title": "Họ tên",
+                "placeholder": "vd: Nguyễn Văn A",
+                "error": {
+                    "empty": "Không được để trống.",
+                    "accept": "Chỉ chấp nhận ký tự chữ cái.",
+                    "length": "Giới hạn trong 2 - 100 ký tự."
+                }
+            },
+            "email": {
+                "title": "Email",
+                "placeholder": "vd: nguyenvana@gmail.com",
+                "error": {
+                    "empty": "Không được để trống.",
+                    "accept": "Gồm tên người dùng, tên miền và ký tự '@'.",
+                    "length": "Giới hạn trong 2 - 70 ký tự."
+                }
+            },
+            "phone": {
+                "title": "Số điện thoại",
+                "placeholder": "vd: 123456789",
+                "error": {
+                    "empty": "Không được để trống.",
+                    "accept": "Chỉ chấp nhận ký tự số.",
+                    "length": "Giới hạn trong 8 - 9 ký tự."
+                },
+                "callingcode": {
+                    "default": "+84",
+                    "vietnam": "+84 (Việt Nam)",
+                    "unitedstates": "+1 (Hoa Kỳ)",
+                    "chinese": "+86 (Trung Quốc)"
+                }
+            },
+            "password": {
+                "title": "Mật khẩu",
+                "placeholder": "vd: M@tkh@u0!0",
+                "error": {
+                    "empty": "Không được để trống.",
+                    "accept": "Có ít nhất một chữ hoa, chữ thường, số và ký tự đặc biệt.",
+                    "length": "Ít nhất 8 ký tự."
+                }
+            },
+            "cfpassword": {
+                "title": "Xác nhận mật khẩu",
+                "placeholder": "vd: M@tkh@u0!0",
+                "error": {
+                    "empty": "Không được để trống.",
+                    "accept": "Phải giống với mật khẩu đã đặt."
+                }
+            }
+        },
+        "confirmation": {
+            "label": "Tôi đồng ý các",
+            "link": "điều khoản và chính sách bảo mật"
+        },
+        "button": "Đăng ký ngay",
+        "haveanaccount": {
+            "text": "Đã có tài khoản?",
+            "span": "Đăng nhập"
+        },
+        "erroragree": "Vui lòng chấp nhận điều khoản bảo mật.",
+        "erroremail": "Email đã được sử dụng.",
+        "errorphone": "Số điện thoại đã được sử dụng.",
+        "success": "Đăng ký thành công"
+    },
+    "signin": {
+        "title": "Đăng nhập tài khoản",
+        "subtitle": "😍 Để sử dụng các dịch vụ dành cho thành viên 😍",
+        "form": {
+            "email": {
+                "title": "Email",
+                "placeholder": "vd: nguyenvana@gmail.com",
+                "error": {
+                    "empty": "Không được để trống.",
+                    "accept": "Gồm tên người dùng, tên miền và ký tự '@'."
+                }
+            },
+            "password": {
+                "title": "Mật khẩu",
+                "placeholder": "vd: M@tkh@u0!0",
+                "error": {
+                    "empty": "Không được để trống."
+                }
+            }
+        },
+        "remember": "Ghi nhớ đăng nhập",
+        "forgotpassword": "Quên mật khẩu?",
+        "button": "Đăng nhập ngay",
+        "donothaveanaccount": {
+            "text": "Chưa có tài khoản?",
+            "span": "Đăng ký"
+        },
+        "linesigninmethods": "Hoặc",
+        "signinmethods": {
+            "google": "Đăng nhập với Google",
+            "facebook": "Đăng nhập với Facebook",
+            "appleid": "Đăng nhập với Apple ID",
+            "wechat": "Đăng nhập với WeChat"
+        },
+        "failed": "Thông tin đăng nhập không chính xác.",
+        "success": "Đăng nhập thành công"
+    },
+    "filter": {
+        "usageneeds": {
+            "title": "Lọc theo nhu cầu sử dụng",
+            "items": {
+                "game": "Chơi game",
+                "battery": "Pin trâu",
+                "camera": "Chụp ảnh đẹp",
+                "configuration": "Cấu hình mạnh"
+            }
+        },
+        "specifications": {
+            "title": "Lọc theo thông số sản phẩm",
+            "items": {
+                "ram": "Bộ nhớ RAM",
+                "rom": "Bộ nhớ ROM",
+                "screensize": {
+                    "title": "Kích cỡ màn hình",
+                    "items": {
+                        "under6inches": "Dưới 6 inches",
+                        "is6inches": "6 inches",
+                        "over6inches": "Trên 6 inches"
+                    }
+                },
+                "operatingsystem": "Hệ điều hành"
+            }
+        },
+        "othercriteria": {
+            "title": "Lọc theo các tiêu chí khác",
+            "items": {
+                "price": {
+                    "title": "Giá tiền",
+                    "from": "Từ",
+                    "to": "Đến"
+                },
+                "remainingcriteria": {
+                    "title": "Các tiêu chí còn lại",
+                    "discount": "Giảm giá",
+                    "highrating": "Đánh giá cao",
+                    "authentic": "Chính hãng",
+                    "greyimport": "Xách tay",
+                    "bestseller": "Bán chạy"
+                }
+            }
+        },
+        "buttons": {
+            "apply": "Áp dụng",
+            "reset": "Đặt lại"
+        }
+    },
+    "view": {
+        "search": "Tìm kiếm",
+        "notfound": "Không tìm thấy sản phẩm phù hợp",
+        "products": "sản phẩm",
+        "page": "Trang",
+        "sort": {
+            "newest": "Mới nhất",
+            "toprated": "Xếp hạng cao",
+            "pricelowtohigh": "Giá tăng dần",
+            "pricehightolow": "Giá giảm dần"
+        },
+        "show": {
+            "show": "Hiển thị",
+            "products": "sản phẩm"
+        },
+        "reset": "Tải lại sản phẩm",
+        "show2": "Hiển thị 2 sản phẩm trên 1 hàng",
+        "show4": "Hiển thị 4 sản phẩm trên 1 hàng"
+    },
+    "products": {
+        "ram": "Bộ nhớ RAM",
+        "rom": "Bộ nhớ ROM",
+        "screensize": "Kích thước màn hình"
+    },
+    "subcart": {
+        "title": "Giỏ hàng",
+        "viewall": "Xem đầy đủ",
+        "subtotal": "Tạm tính",
+        "checkout": "Thanh Toán",
+        "products": "Sản phẩm",
+        "color": "Màu",
+        "ram": "Ram",
+        "rom": "Rom",
+        "addwishlist": "Thêm vào yêu thích",
+        "empty": "Giỏ hàng chưa có sản phẩm",
+        "alreadyexists": "đã có trong giỏ hàng",
+        "alreadyadd": "đã được thêm vào giỏ hàng",
+        "alreadydelete": "đã bị xóa khỏi giỏ hàng"
+    },
+    "footer": {
+        "features": {
+            "title": "Tính năng",
+            "home": "Trang chủ",
+            "policy": "Chính sách",
+            "sale": "Khuyến mãi",
+            "contact": "Liên hệ"
+        },
+        "categories": {
+            "title": "Danh mục",
+            "inexpensive":" Phân khúc giá rẻ",
+            "moderate":" Phân khúc tầm trung",
+            "luxury":" Phân khúc cao cấp"
+        },
+        "brands": {
+            "title": "Thương hiệu",
+            "apple": "Apple",
+            "oppo": "Oppo",
+            "samsung": "Samsung",
+            "xiaomi": "Xiaomi"
+        },
+        "contact": {
+            "title": "Liên hệ",
+            "address": "123 Trần Quang Khải, Quận 1, TPHCM",
+            "phone": "19001234",
+            "email": "uxuishop@example.com"
+        },
+        "getinfo": "Nhận thông tin sản phẩm mới nhất 😍",
+        "paymentmethod": "Hỗ trợ các phương thức thanh toán 😍",
+        "copyright": "Copyright © 2023 - Tất cả các quyền được bảo lưu | Bản quyền thuộc về UXUI Shop",
+        "emailaddress": "Địa chỉ email"
+    },
+    "slider": {
+        "seemore": "Xem thêm",
+        "descriptions": [
+            "Xiaomi 13 Pro là siêu phẩm mới từ nhà Xiaomi đồng hành cùng Leica - thương hiệu nhiếp ảnh danh tiếng. Đây được xem là tâm điểm thu hút sự chú ý của cộng đồng người dùng yêu thích nhiếp ảnh trong năm 2023.",
+            "OPPO Find X5 có lẽ là cái tên sáng giá được xướng tên trong danh sách điện thoại có thiết kế ấn tượng trong năm 2022. Máy được hãng cho ra mắt với một diện mạo độc lạ chưa từng có.",
+            "Samsung Galaxy S23 không còn là cái tên quá xa lạ đối với các tín đồ công nghệ, một trong những gương mặt chủ chốt đến từ nhà Samsung với cấu hình mạnh mẽ bậc nhất, camera hàng đầu cùng lối hoàn thiện vô cùng sang trọng và hiện đại."
+        ]
+    },
+    "services": {
+        "delivery": {
+            "title": "Miễn phí giao hàng",
+            "description": "Dành cho tất cả đơn hàng"
+        },
+        "support": {
+            "title": "Hỗ trợ trực tuyến",
+            "description": "Giải đáp thắc mắc 24/7"
+        },
+        "return": {
+            "title": "Hoàn tiền",
+            "description": "Hoàn tiền trong 7 ngày"
+        },
+        "discount": {
+            "title": "Khuyến mãi",
+            "description": "Giảm giá từ 10 - 30%"
+        }
+    },
+    "outstanding": {
+        "seemore": "Xem thêm",
+        "price": [3590000, 4490000, 27990000, 4190000, 32990000, 11490000] 
+    }
+}

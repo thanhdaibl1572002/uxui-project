@@ -1,0 +1,322 @@
+{
+    "homeTitle": "Home",
+    "homeSubTitleServices": "Services",
+    "homeSubTitleOutstanding": "Featured products",
+    "homeSubTitleProducts": "Product list",
+    "header": {
+        "headerTop": {
+            "address": "123 Tran Quang Khai, District 1, Ho Chi Minh City",
+            "phone": "19001234",
+            "email": "uxuishop@example.com",
+            "languages": {
+                "selected": "English",
+                "vietnamese": "Tiếng Việt",
+                "english": "English",
+                "chinese": "中文"
+            },
+            "currency": {
+                "vnd": "VND (Vietnamese Dong)",
+                "usd": "USD (US Dollar)",
+                "cny": "CNY (Chinese Yuan)"
+            }
+        },
+        "headerCenter": {
+            "navigations": {
+                "home": "Home",
+                "policy": "Policy",
+                "sale": "Sale",
+                "contact": "Contact"
+            },
+            "buttons": {
+                "signup": "Sign Up",
+                "signin": "Sign In"
+            },
+            "welcome": "Welcome",
+            "menu": {
+                "editProfile": "Edit Profile",
+                "changePassword": "Change Password",
+                "signout": "Sign Out"
+            }
+        },
+        "headerBottom": {
+            "categories": {
+                "title": "Categories",
+                "inexpensive": "Inexpensive",
+                "moderate": "Moderate",
+                "luxury": "Luxury"
+            },
+            "brands": {
+                "title": "Brands",
+                "apple": "Apple",
+                "samsung": "Samsung",
+                "oppo": "Oppo",
+                "xiaomi": "Xiaomi"
+            },
+            "search": {
+                "placeholder": "Search for products here",
+                "button": "Search",
+                "history": "Search history",
+                "recommended": "Recommended product"
+            },
+            "order": "Order",
+            "wishlist": "Wishlist",
+            "cart": "Cart"
+        }
+    },
+    "signup": {
+        "title": "Create an account",
+        "subtitle": "😍 To use member-exclusive services 😍",
+        "form": {
+            "name": {
+                "title": "Full Name",
+                "placeholder": "eg: John Smith",
+                "error": {
+                    "empty": "Cannot be empty.",
+                    "accept": "Only accepts alphabetic characters.",
+                    "length": "Must be between 2 and 100 characters."
+                }
+            },
+            "email": {
+                "title": "Email",
+                "placeholder": "eg: johnsmith@gmail.com",
+                "error": {
+                    "empty": "Cannot be empty.",
+                    "accept": "Must be in the format of username, domain and '@' symbol.",
+                    "length": "Must be between 2 and 70 characters."
+                }
+            },
+            "phone": {
+                "title": "Phone Number",
+                "placeholder": "eg: 123456789",
+                "error": {
+                    "empty": "Cannot be empty.",
+                    "accept": "Only accepts numeric characters.",
+                    "length": "Must be between 8 and 9 characters."
+                },
+                "callingcode": {
+                    "default": "+84",
+                    "vietnam": "+84 (Vietnam)",
+                    "unitedstates": "+1 (United States)",
+                    "chinese": "+86 (China)"
+                }
+            },
+            "password": {
+                "title": "Password",
+                "placeholder": "eg: P@ssw0rd!",
+                "error": {
+                    "empty": "Cannot be empty.",
+                    "accept": "Require: Uppercase, lowercase, number, special character.",
+                    "length": "Must be at least 8 characters long."
+                }
+            },
+            "cfpassword": {
+                "title": "Confirm Password",
+                "placeholder": "eg: P@ssw0rd!",
+                "error": {
+                    "empty": "Cannot be empty.",
+                    "accept": "Must match the password you set."
+                }
+            }
+        },
+        "confirmation": {
+            "label": "I accept the",
+            "link": "terms and privacy policy"
+        },
+        "button": "Sign Up Now",
+        "haveanaccount": {
+            "text": "Already have an account?",
+            "span": "Sign in"
+        },
+        "erroragree": "Please accept the privacy policy.",
+        "erroremail": "Email has already been used.",
+        "errorphone": "Phone number has already been used.",
+        "success": "Registration successful"
+    },
+    "signin": {
+        "title": "Sign in to your account",
+        "subtitle": "😍 To access member-exclusive services 😍",
+        "form": {
+            "email": {
+                "title": "Email",
+                "placeholder": "eg: johnsmith@gmail.com",
+                "error": {
+                    "empty": "Cannot be empty.",
+                    "accept": "Must be in the format of username, domain and '@' symbol."
+                }
+            },
+            "password": {
+                "title": "Password",
+                "placeholder": "eg: P@ssw0rd!",
+                "error": {
+                    "empty": "Cannot be empty."
+                }
+            }
+        },
+        "remember": "Remember me",
+        "forgotpassword": "Forgot password?",
+        "button": "Sign in",
+        "donothaveanaccount": {
+            "text": "Don't have an account?",
+            "span": "Sign up"
+        },
+        "linesigninmethods": "Or",
+        "signinmethods": {
+            "google": "Sign in with Google",
+            "facebook": "Sign in with Facebook",
+            "appleid": "Sign in with Apple ID",
+            "wechat": "Sign in with WeChat"
+        },
+        "failed": "Invalid login credentials.",
+        "success": "Login successful"
+    },
+    "filter": {
+        "usageneeds": {
+            "title": "Filter by usage needs",
+            "items": {
+                "game": "Gaming",
+                "battery": "Long battery life",
+                "camera": "Good camera",
+                "configuration": "Powerful config"
+            }
+        },
+        "specifications": {
+            "title": "Filter by product specifications",
+            "items": {
+                "ram": "RAM",
+                "rom": "ROM",
+                "screensize": {
+                    "title": "Screen size",
+                    "items": {
+                        "under6inches": "Under 6 inches",
+                        "is6inches": "6 inches",
+                        "over6inches": "Over 6 inches"
+                    }
+                },
+                "operatingsystem": "Operating system"
+            }
+        },
+        "othercriteria": {
+            "title": "Filter by other criteria",
+            "items": {
+                "price": {
+                    "title": "Price",
+                    "from": "From",
+                    "to": "To"
+                },
+                "remainingcriteria": {
+                    "title": "Remaining criteria",
+                    "discount": "Discount",
+                    "highrating": "High rating",
+                    "authentic": "Authentic",
+                    "greyimport": "Grey import",
+                    "bestseller": "Bestseller"
+                }
+            }
+        },
+        "buttons": {
+            "apply": "Apply",
+            "reset": "Reset"
+        }
+    },
+    "view": {
+        "search": "Search for",
+        "notfound": "No suitable products found",
+        "products": "products",
+        "page": "Page",
+        "sort": {
+            "newest": "Newest",
+            "toprated": "Top rated",
+            "pricelowtohigh": "Price low to high",
+            "pricehightolow": "Price high to low"
+        },
+        "show": {
+            "show": "Show",
+            "products": "products"
+        },
+        "reset": "Reset products",
+        "show2": "Show 2 products per row",
+        "show4": "Show 4 products per row"
+    },
+    "products": {
+        "ram": "RAM memory",
+        "rom": "ROM memory",
+        "screensize": "Screen size"
+    },
+    "subcart": {
+        "title": "My Cart",
+        "viewall": "View all",
+        "subtotal": "Subtotal",
+        "checkout": "Checkout",
+        "products": "products",
+        "color": "Color",
+        "ram": "Ram",
+        "rom": "Rom",
+        "addwishlist": "Add to wishlist",
+        "empty": "Your cart is empty",
+        "alreadyexists": "is already in cart",
+        "alreadyadd": "has been added to cart",
+        "alreadydelete": "has been removed from cart"
+    },
+    "footer": {
+        "features": {
+            "title": "Feature",
+            "home": "Home",
+            "policy": "Policy",
+            "sale": "Sale",
+            "contact": "Contact"
+        },
+        "categories": {
+            "title": "Categories",
+            "inexpensive": "Inexpensive",
+            "moderate": "Moderate",
+            "luxury": "Luxury"
+        },
+        "brands": {
+            "title": "Brands",
+            "apple": "Apple",
+            "oppo": "Oppo",
+            "samsung": "Samsung",
+            "xiaomi": "Xiaomi"
+        },
+        "contact": {
+            "title": "Contact",
+            "address": "123 Tran Quang Khai, District 1, Ho Chi Minh City",
+            "phone": "19001234",
+            "email": "uxuishop@example.com"
+        },
+        "getinfo": "Receive the latest product information 😍",
+        "paymentmethod": "Support various payment methods 😍",
+        "copyright": "Copyright © 2023 - All rights reserved | Owned by UXUI Shop",
+        "emailaddress": "Email address"
+    },
+    "slider": {
+        "seemore": "See more",
+        "descriptions": [
+            "Xiaomi 13 Pro is the latest flagship from Xiaomi in partnership with Leica - a renowned photography brand. This is considered the center of attention for photography enthusiasts in 2023.",
+            "OPPO Find X5 is perhaps the most prominent name in the list of phones with impressive designs in 2022. The device is launched by the company with a unique and unprecedented appearance.",
+            "Samsung Galaxy S23 is no longer a completely unfamiliar name to technology enthusiasts, one of the key faces from Samsung with the most powerful configuration, top camera, and extremely luxurious and modern finishing style."    
+        ]
+    },
+    "services": {
+        "delivery": {
+            "title": "Free delivery",
+            "description": "For all orders"
+        },
+        "support": {
+            "title": "Online support",
+            "description": "24/7 customer service"
+        },
+        "return": {
+            "title": "Money-back guarantee",
+            "description": "Refund within 7 days"
+        },
+        "discount": {
+            "title": "Promotion",
+            "description": "Discount from 10% - 30%"
+        }
+    },
+    "outstanding": {
+        "seemore": "See more",
+        "price": [154.37, 193.07, 1202.97, 180.17, 1416.17, 490.29] 
+    }
+}

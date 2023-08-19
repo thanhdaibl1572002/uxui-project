@@ -1,0 +1,125 @@
+#order {
+    width: 100%;
+    padding: 50px;
+    column-gap: 30px;
+}
+
+.order-left {
+    background-color: white;
+    flex-direction: column;
+    flex-basis: 60%;
+    padding: 20px;
+    row-gap: 15px;
+    border-radius: 10px;
+}
+
+.order-left h3 {
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+.order-left-input-group {
+    width: 100%;
+    column-gap: 20px;
+}
+
+.order-left-input-group-item {
+    flex-basis: calc(50% - 10px);
+    flex-direction: column;
+    row-gap: 10px;
+}
+
+.order-left-input-group-item label {
+    font-size: 15.5px;
+    font-weight: 500;
+}
+
+.order-left-input-group-item input,
+.order-left-input-group-item select {
+    width: 100%;
+    height: 42px;
+    border: 1px solid var(--main-color);
+    border-radius: 5px;
+    padding: 0 15px;
+    font-size: 17px;
+}
+
+.order-left-input-group-item input::placeholder {
+    font-size: 15px;
+}
+
+.order-left-input-group-item textarea {
+    width: 100%;
+    height: 100px;
+    border: 1px solid var(--main-color);
+    border-radius: 5px;
+    padding: 15px;
+}
+
+.order-right {
+    background-color: white;
+    flex-direction: column;
+    flex-basis: calc(40% - 20px);
+    padding: 20px;
+    row-gap: 15px;
+    border-radius: 10px;
+    height: fit-content;
+}
+
+.order-right h3 {
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+.order-right-products {
+    flex-direction: column;
+    row-gap: 30px;
+}
+
+.order-right-products-title {
+    font-size: 17px;
+    font-weight: 500;
+    justify-content: space-between;
+    border-bottom: 1px solid #4facfe;
+    padding-bottom: 20px;
+}
+
+.order-right-products-content {
+    flex-direction: column;
+    row-gap: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #4facfe;
+}
+
+.order-right-products-content-item {
+    font-size: 17px;
+    font-weight: 300;
+    justify-content: space-between;
+}
+
+.order-right-products-content-item:nth-child(4) span:nth-child(1),
+.order-right-products-content-item:nth-child(5) span:nth-child(1),
+.order-right-products-content-item:nth-child(6) span:nth-child(1) {
+    font-weight: 500;
+}
+
+.order-right-products-content-item strong {
+    font-size: 20px;
+    font-weight: 900;
+}
+
+.order-right-products-footer button {
+    background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+    color: white;
+    width: 100%;
+    padding: 8px 10px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 5px;
+    font-size: 20px;
+    font-weight: 500;
+    cursor: pointer;
+    text-transform: uppercase;
+}
